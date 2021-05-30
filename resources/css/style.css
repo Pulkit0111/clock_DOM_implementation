@@ -1,0 +1,26 @@
+#clkCont,
+.textCont {
+  width: 45%;
+  margin: 5% auto;
+  border: 3px dashed gold;
+  border-radius: 15px;
+}
+#clock {
+  width: 100%;
+  color: gold;
+  font-size: 100px;
+  text-align: center;
+}
+body {
+  background-color: #3c1874;
+}
+.textCont > h1 {
+  color: gold;
+  text-align: center;
+}
+.textCont > p {
+  color: gold;
+  padding: 20px;
+  font-size: 25px;
+  text-align: justify;
+}
